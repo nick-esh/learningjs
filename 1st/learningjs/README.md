@@ -1,2 +1,0 @@
-# learningjs
-first phase
